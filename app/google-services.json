@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661835746299",
+    "project_id": "rihab-3fc3e",
+    "storage_bucket": "rihab-3fc3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661835746299:android:a61aef2645168551bd595e",
+        "android_client_info": {
+          "package_name": "com.test.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661835746299-uqu1intnrb28mk7v00c1el36e273eelq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzMhGVycJS2VriCbcmWtZgfKor7gV3ZVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661835746299-uqu1intnrb28mk7v00c1el36e273eelq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
